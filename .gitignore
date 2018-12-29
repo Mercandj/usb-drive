@@ -1,0 +1,7 @@
+*.jks
+*.jar
+
+# OSX files
+.DS_Store
+
+usb-key/
